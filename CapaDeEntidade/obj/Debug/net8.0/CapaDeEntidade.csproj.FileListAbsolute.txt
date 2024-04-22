@@ -1,0 +1,11 @@
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\bin\Debug\net8.0\CapaDeEntidade.deps.json
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\bin\Debug\net8.0\CapaDeEntidade.dll
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\bin\Debug\net8.0\CapaDeEntidade.pdb
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\net8.0\CapaDeEntidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\net8.0\CapaDeEntidade.AssemblyInfoInputs.cache
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\net8.0\CapaDeEntidade.AssemblyInfo.cs
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\net8.0\CapaDeEntidade.csproj.CoreCompileInputs.cache
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\net8.0\CapaDeEntidade.dll
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\net8.0\refint\CapaDeEntidade.dll
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\net8.0\CapaDeEntidade.pdb
+C:\Users\dev10\source\repos\GestEscolar\CapaDeEntidade\obj\Debug\net8.0\ref\CapaDeEntidade.dll
